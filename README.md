@@ -1,3 +1,9 @@
 # MimicRoboy
+Hackathon Project at Hack Roboy
 
-ist der hammer
+#Mouth control
+fa.py controls the mouth movement and want to send bezier curves to the unity file of roboy that it moves the mouth (connection is not working properly)
+
+#Eyes control
+creation of new eyes with Autodesk Maya.
+Control of the eyes is possible with Faceware or can be included into the Python script.
